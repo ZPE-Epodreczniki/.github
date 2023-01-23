@@ -6,6 +6,9 @@
 
 ## W tym miejscu znajdziesz dodatkowe kody źródłowe w języku Python dla projektu ZPE.
 
+* Materiały dla Szkoły podstawowej: https://github.com/ZPE-Epodreczniki/python-szkola-podstawowa
+* Materiały dla Szkoły ponadpodstawowej: https://github.com/ZPE-Epodreczniki/python-szkola-ponadpodstawowa
+
 ![python](https://user-images.githubusercontent.com/11718525/135937807-fd3e0fd2-a31a-47a4-90c6-b0bb1d0704d4.png)
 
 ----
